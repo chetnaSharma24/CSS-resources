@@ -1,2 +1,2 @@
-# The-lovely-JavaScript
+# The lovely JavaScript
 Full Stack JavaScript guide and activites
